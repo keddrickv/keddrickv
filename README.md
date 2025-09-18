@@ -12,12 +12,12 @@
 
 - <b>Microsoft Azure</b>
   - [How To Create A Virtual Machine And Access via Remote Desktop](https://github.com/keddrickv/Azure-VM-Setup)
-  - [Configuring A Firewall (Network Security Group)](https://github.com/keddrickv/Azure-Configuring-Network-Security-Group)
+  - [Network Security Groups and Analyzing Traffic using Wireshark](https://github.com/keddrickv/Azure-Configuring-Network-Security-Group)
   - [How to Create a Virtual Network and Connect Two VMs](https://github.com/keddrickv/Azure-Creating-Virtual-Network-And-Connect-Two-VMs)
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Creating Help Topics For End Users To Clarify Criticality of IT Issues for Ticket Support](https://github.com/keddrickv/osTicket-Creating-Help-Topics-for-End-User)
+  - [osTicket: Creating Help Topics For End Users To Clarify Criticality of IT Issues](https://github.com/keddrickv/osTicket-Creating-Help-Topics-for-End-User)
   - [osTicket: Ticket Lifecycle Example](https://github.com/keddrickv/osTicket-Ticket-Lifecyle-Example)
 
 
