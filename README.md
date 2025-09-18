@@ -18,7 +18,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Creating Help Topics For End Users To Clarify Criticality of IT Issues for Ticket Support](https://github.com/keddrickv/osticket-prereqs)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/keddrickv/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Example](https://github.com/keddrickv/ticket-lifecycle)
 
 
 <h2>🤳Connect with me on <a href="https://www.linkedin.com/in/keddrick-varnado">LinkedIn!</a>
