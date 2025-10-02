@@ -1,6 +1,6 @@
 <h1>Hi, I'm Keddrick, an aspiring <a href="https://www.linkedin.com/in/keddrick-varnado">IT Professional</a>:grin:</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>:computer:Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
   - [How To Configure Account Lockout Policy Threshold In Group Policy ](https://github.com/keddrickv/AD-Account-Lockout-Policy)
